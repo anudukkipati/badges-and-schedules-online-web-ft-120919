@@ -22,4 +22,5 @@ def printer (array)
  end
   assign_rooms(array).each do |element|
     puts element
+  end
 end
